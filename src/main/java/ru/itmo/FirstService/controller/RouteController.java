@@ -11,7 +11,6 @@ import ru.itmo.FirstService.dto.RouteDto;
 import ru.itmo.FirstService.entity.Route;
 import ru.itmo.FirstService.validator.RouteValidator;
 
-import javax.ws.rs.Consumes;
 import java.util.Collections;
 import java.util.List;
 
